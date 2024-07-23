@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Somesh Karpate</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw34EFLRjKRhbP-wfbHqWEUw&ust=1721843503703000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiEz4TdvYcDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/15637256-coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh-karpate&label=Profile%20views&color=0e75b6&style=flat" alt="somesh-karpate" /> </p>
 
